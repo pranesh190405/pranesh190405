@@ -349,24 +349,18 @@ class Pranesh:
 
 ## ⚡ Currently Vibing With
 
-<table align="center" border="0">
+<table align="center" border="0" cellpadding="20">
   <tr>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="middle" width="52%">
       <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" alt="Busy Work GIF"/>
     </td>
-    <td valign="middle" width="50%">
-
-```text
-╭────────────────────────────────────────────╮
-│  🔨  Building   →  Full Stack Apps & AI    │
-│  📖  Learning   →  System Design & LLMs    │
-│  🎯  Goal       →  Top SWE / DS role  🏹   │
-│  🏊  Recharging →  Laps in the pool 🌊     │
-│  ☕  Fuel        →  Chai + lo-fi + dark 🎵  │
-╰────────────────────────────────────────────╯
-```
-
-  </td>
+    <td align="left" valign="middle" width="48%">
+      <p>🔨 &nbsp;<strong>Building</strong> &nbsp;→&nbsp; Full Stack Apps & AI solutions</p>
+      <p>📖 &nbsp;<strong>Learning</strong> &nbsp;→&nbsp; System Design & LLMs</p>
+      <p>🎯 &nbsp;<strong>Goal</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; Top SWE / DS role 🏹</p>
+      <p>🏊 &nbsp;<strong>Recharging</strong> →&nbsp; Laps in the pool 🌊</p>
+      <p>☕ &nbsp;<strong>Fuel</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; Chai + lo-fi + dark IDE 🎵</p>
+    </td>
   </tr>
 </table>
 
