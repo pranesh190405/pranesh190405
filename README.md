@@ -349,22 +349,26 @@ class Pranesh:
 
 ## ⚡ Currently Vibing With
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500" alt="Tech Stack floating"/>
-<br/>
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" alt="Busy Work GIF"/>
+    </td>
+    <td valign="middle" width="50%">
 
 ```text
-╭──────────────────────────────────────────────────────────────────────╮
-│  🔨  Building   →   Full Stack Apps & AI-powered solutions           │
-│  📖  Learning   →   System Design · Cloud Architecture · LLMs        │
-│  🎯  Goal       →   Top-tier SWE / Full Stack / DS role  🏹          │
-│  🏊  Recharging →   Laps in the pool clear my head 🌊                │
-│  ☕  Fuel        →   Chai + lo-fi beats + dark mode IDE  🎵           │
-╰──────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────╮
+│  🔨  Building   →  Full Stack Apps & AI    │
+│  📖  Learning   →  System Design & LLMs    │
+│  🎯  Goal       →  Top SWE / DS role  🏹   │
+│  🏊  Recharging →  Laps in the pool 🌊     │
+│  ☕  Fuel        →  Chai + lo-fi + dark 🎵  │
+╰────────────────────────────────────────────╯
 ```
 
-</div>
+  </td>
+  </tr>
+</table>
 
 ---
 
