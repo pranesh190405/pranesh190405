@@ -24,7 +24,9 @@
 
 ---
 
-
+### 💬 Quote I Live By
+> *"Kuch chahiye? Rona band kar. Mehnat kar. Haq bana. Aur cheen le. 🔥
+"* — Striver
 
 <!-- ════════════════════════════════════════════════════════════════════════════ -->
 <!--                         WHO AM I SECTION                                    -->
@@ -71,13 +73,6 @@ class Pranesh:
         "🎮  Strategy Gaming — because pattern recognition is a skill",
     ]
 
-    fun_facts    = {
-        "fuel"          : "☕ Chai + lo-fi beats + dark mode IDE",
-        "superpower"    : "Debugging at 2AM with pure stubbornness 🔦",
-        "school_scores" : "Class 10: 94.4%  |  Class 12: 92.2%",
-    }
-
-    life_motto   = "→  Let the work speak. 🚀"
 
     def greet(self):
         return "Thanks for stopping by! Let's build something epic together 🔥"
@@ -395,9 +390,7 @@ class Pranesh:
 
 <div align="center">
 
-### 💬 Quote I Live By
-> *"Kuch chahiye? Rona band kar. Mehnat kar. Haq bana. Aur cheen le. 🔥
-"* — Striver
+
 
 **If something here resonates — drop a ⭐ on a repo or just say hi!** 🙌
 
