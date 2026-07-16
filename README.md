@@ -223,7 +223,7 @@ class Pranesh:
 
 ### 🌐 Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,sass,vite,figma&perline=4" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,react-native,nextjs,tailwind,bootstrap,redux,sass,vite,figma&perline=4" />
 </div>
 
   </td>
@@ -231,7 +231,7 @@ class Pranesh:
 
 ### ⚙️ Backend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,python,graphql,nginx,redis,rabbitmq,prisma,supabase&perline=4" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,python&perline=4" />
 </div>
 
   </td>
@@ -239,29 +239,21 @@ class Pranesh:
 
 ### 🧠 Data Science & AI
 <div align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda,jupyter,r,matlab&perline=4" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda,jupyter,matlab&perline=4" />
 </div>
 
   </td>
   </tr>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
 
 ### 🗄️ Databases
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,firebase,supabase,redis,cassandra&perline=4" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase&perline=4" />
 </div>
 
   </td>
-  <td valign="top" width="33%">
-
-### ☁️ Cloud & DevOps
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,terraform,linux,bash&perline=4" />
-</div>
-
-  </td>
-  <td valign="top" width="33%">
+  <td valign="top" width="50%">
 
 ### 🛠️ Tools & Platforms
 <div align="center">
@@ -274,7 +266,7 @@ class Pranesh:
 
 ### 💬 Programming Languages
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,cpp,go,haskell,r,dart,kotlin,swift&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,go,haskell,scala&perline=12" />
 </div>
 
 ---
@@ -287,6 +279,9 @@ class Pranesh:
 
 ```text
 ╭─ PRANESH'S HIGHLIGHTS ────────────────────────────────────────────────────────────╮
+│                                                                                    │
+│  🚀  3-Month Intensive Dev Grind                                                  │
+│      Consistently building, learning, and shipping full-stack apps daily          │
 │                                                                                    │
 │  🥇  Smart India Hackathon (SIH) 2025                                             │
 │      Top 45 teams out of 110 selected teams in the internal hackathon             │
@@ -318,7 +313,7 @@ class Pranesh:
 <div align="center">
 
 <a href="https://github.com/pranesh190405">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pranesh190405&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF79C6&text_color=CDD6F4&bg_color=0D1117" alt="Pranesh GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pranesh190405&show_icons=true&theme=tokyonight&hide=commits&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF79C6&text_color=CDD6F4&bg_color=0D1117" alt="Pranesh GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pranesh190405&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00FFFF&text_color=CDD6F4&bg_color=0D1117" alt="Top Languages"/>
 </a>
 
