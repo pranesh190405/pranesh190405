@@ -377,22 +377,33 @@ class Pranesh:
 </div>
 
 <p align="center">
-  <a href="https://github.com/pranesh190405">
-    <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranesh190405&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00FFFF&fire=FF79C6&currStreakNum=FFFFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=00FFFF&dates=CDD6F4" alt="Pranesh streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pranesh190405">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranesh190405&bg_color=0D1117&color=00FFFF&line=FF79C6&point=FFFFFF&area_color=1A1A2E&title_color=00FFFF&border_radius=20" alt="Activity Graph"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=pranesh190405&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Pranesh trophies"/>
   </a>
 </p>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════════════════════ -->
+<!--                     CONTRIBUTION SNAKE & PAC-MAN                           -->
+<!-- ════════════════════════════════════════════════════════════════════════════ -->
+
+## 🐍 My Contributions Eating Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranesh190405/pranesh190405/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranesh190405/pranesh190405/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pranesh190405/pranesh190405/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+<br/><br/>
+
+### 🟡 Pac-Man Chasing My Commits
+<img src="https://pacman.contrib.rocks/image?user=pranesh190405" width="900" alt="Pac-Man Contribution Graph"/>
+
+</div>
 
 ---
 
@@ -475,7 +486,8 @@ class Pranesh:
 <div align="center">
 
 ### 💬 Quote I Live By
-> *"The best way to predict the future is to invent it."* — Alan Kay
+> *Kuch chahiye? Stop crying. Mehnat kar. Lad. Aur cheen le. 🔥
+"* — Striver
 
 **If something here resonates — drop a ⭐ on a repo or just say hi!** 🙌
 
