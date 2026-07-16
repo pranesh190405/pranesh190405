@@ -74,11 +74,10 @@ class Pranesh:
     fun_facts    = {
         "fuel"          : "☕ Chai + lo-fi beats + dark mode IDE",
         "superpower"    : "Debugging at 2AM with pure stubbornness 🔦",
-        "weakness"      : "A cool new project idea every weekend 😅",
         "school_scores" : "Class 10: 94.4%  |  Class 12: 92.2%",
     }
 
-    life_motto   = "→  Code with purpose. Build with passion. Ship with pride. 🚀"
+    life_motto   = "→  Let the work speak. 🚀"
 
     def greet(self):
         return "Thanks for stopping by! Let's build something epic together 🔥"
@@ -335,7 +334,6 @@ class Pranesh:
 <div align="center">
 
 <a href="https://github.com/pranesh190405">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pranesh190405&show_icons=true&theme=tokyonight&hide=commits&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF79C6&text_color=CDD6F4&bg_color=0D1117" alt="Pranesh GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pranesh190405&langs_count=8&layout=compact&theme=tokyonight&count_private=true&hide_border=true&title_color=00FFFF&text_color=CDD6F4&bg_color=0D1117" alt="Top Languages"/>
 </a>
 
@@ -353,7 +351,7 @@ class Pranesh:
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" alt="Tech Stack floating"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500" alt="Tech Stack floating"/>
 <br/>
 
 ```text
@@ -409,7 +407,8 @@ class Pranesh:
 <div align="center">
 
 ### 💬 Quote I Live By
-> *"The best way to predict the future is to invent it."* — Alan Kay
+> *"Kuch chahiye? Rona band kar. Mehnat kar. Haq bana. Aur cheen le. 🔥
+"* — Striver
 
 **If something here resonates — drop a ⭐ on a repo or just say hi!** 🙌
 
