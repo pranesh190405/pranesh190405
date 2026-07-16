@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=M.%20Pranesh&fontSize=75&fontColor=00FFFF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Science%20%7C%20Problem%20Solver&descAlignY=62&descSize=20&descColor=CDD6F4"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00FFFF&center=true&vCenter=true&random=false&width=750&height=55&lines=Hey+there!+I%27m+Pranesh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Data+Science+%26+ML+Enthusiast+%F0%9F%A7%A0;Hackathon+Warrior+%F0%9F%8F%86;Building+things+that+matter+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00FFFF&center=true&vCenter=true&random=false&width=750&height=55&lines=Hey+there!+I%27m+Pranesh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Data+Science+%26+ML+Enthusiast+%F0%9F%A7%A0;Building+things+that+matter+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/><br/>
 
