@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500" alt="Night Chill Coding GIF"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="Hello Nice to Meet You"/>
 
 <br/><br/>
 
@@ -345,31 +345,9 @@ class Pranesh:
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pranesh190405&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Pranesh trophies"/>
-  </a>
-</p>
-
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTION SNAKE & PAC-MAN                           -->
-<!-- ════════════════════════════════════════════════════════════════════════════ -->
 
-## 🐍 My Contributions Eating Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranesh190405/pranesh190405/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranesh190405/pranesh190405/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pranesh190405/pranesh190405/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
 
 <!-- ════════════════════════════════════════════════════════════════════════════ -->
 <!--                     CURRENTLY VIBING WITH                                   -->
@@ -403,21 +381,6 @@ class Pranesh:
 ## 🌐 Let's Connect!
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/m-pranesh/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="60" alt="LinkedIn"/>
-</a>&nbsp;
-<a href="mailto:praneshcollege1904@gmail.com" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="60" alt="Gmail"/>
-</a>&nbsp;
-<a href="https://github.com/pranesh190405" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60" alt="GitHub"/>
-</a>&nbsp;
-<a href="https://pranesh190405.github.io/My_Portfolio/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" alt="Portfolio"/>
-</a>
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/m-pranesh/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
