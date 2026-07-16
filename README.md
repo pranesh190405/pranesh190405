@@ -8,10 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00FFFF&center=true&vCenter=true&random=false&width=750&height=55&lines=Hey+there!+I%27m+Pranesh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Data+Science+%26+ML+Enthusiast+%F0%9F%A7%A0;Hackathon+Warrior+%F0%9F%8F%86;Building+things+that+matter+%E2%9A%A1)](https://git.io/typing-svg)
 
-<br/>
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="Hello Nice to Meet You"/>
-
 <br/><br/>
 
 <a href="https://github.com/pranesh190405">
