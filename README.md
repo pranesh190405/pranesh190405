@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coder GIF"/>
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500" alt="Night Chill Coding GIF"/>
 
 <br/><br/>
 
@@ -346,6 +346,9 @@ class Pranesh:
 ## ⚡ Currently Vibing With
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" alt="Tech Stack floating"/>
+<br/>
 
 ```text
 ╭──────────────────────────────────────────────────────────────────────╮
